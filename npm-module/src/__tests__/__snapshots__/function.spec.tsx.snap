@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component should show 'Blue' text 'Hello Christopher, this is a npm module!' 1`] = `
+<div
+  style={
+    Object {
+      "color": "blue",
+    }
+  }
+>
+  Hello 
+  Christopher
+  , this is a npm module!
+</div>
+`;
