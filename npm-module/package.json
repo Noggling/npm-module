@@ -19,7 +19,7 @@
     "jest": "^25.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts-ts": "^3.1.0",
+    "react-scripts-ts": "^4.0.8",
     "react-test-renderer": "^16.13.1",
     "rollup": "^2.1.0",
     "rollup-plugin-commonjs": "^10.1.0",
